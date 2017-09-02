@@ -62,4 +62,12 @@ Since we’re not using a percentage-based grading system, let me put it another
 
 (ii) Brian K. Vaughan, Marcos Martin and Muntsa Vicente - The Private Eye - http://panelsyndicate.com/comics/tpeye
 
-##Syllabus
+## Syllabus
+
+### Data & Aesthetic
+
+September 11th – Week 1. The lay of the land
+
+September 18th – Week 2. Discussions on readings & technical workshop
+
+September 25th – Week 3. Guest Speaker (TBA) & Project presentations
