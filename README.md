@@ -70,6 +70,10 @@ Since we’re not using a percentage-based grading system, let me put it another
 * [The Anti-Sublime in New Media,](http://users.fba.up.pt/~ldcag01015/anti_sublime/index.html) Lev Manovich
 * [What Would Feminist Data Visualization Look Like?](https://civic.mit.edu/feminist-data-visualization) Catherine D'Ignazio
 * [DataViz - The UnEmpathetic Art,](https://responsibledata.io/dataviz-the-unempathetic-art/) Mushon Zer-Aviv
+* [Picturing the Self in the Age of Data,](http://www.artpapers.org/feature_articles/feature2_2014_0708.html) Dan Weiskopf
+
+**Watch:**
+* [Subtle Data,](https://vimeo.com/72246588) Stefanie Posavec speaking at the 2013 Eyeo Festival
 
 September 11th – Week 1. The lay of the land
 
