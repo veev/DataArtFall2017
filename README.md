@@ -66,6 +66,11 @@ Since we’re not using a percentage-based grading system, let me put it another
 
 ### Data & Aesthetic
 
+**Readings:**
+* [The Anti-Sublime in New Media,](http://users.fba.up.pt/~ldcag01015/anti_sublime/index.html) Lev Manovich
+* [What Would Feminist Data Visualization Look Like?](https://civic.mit.edu/feminist-data-visualization) Catherine D'Ignazio
+* [DataViz - The UnEmpathetic Art,](https://responsibledata.io/dataviz-the-unempathetic-art/) Mushon Zer-Aviv
+
 September 11th – Week 1. The lay of the land
 
 September 18th – Week 2. Discussions on readings & technical workshop
@@ -76,7 +81,7 @@ September 25th – Week 3. Guest Speaker (TBA) & Project presentations
 
 October 2nd – Week 4. Topic survey & technical workshop
 
-October 9th *Fall break*
+*October 9th - Fall break*
 
 October 16th – Week 5. Discussions on readings & overview of other resources
 
