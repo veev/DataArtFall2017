@@ -13,7 +13,7 @@ Fascinating and terrifying things are happening at the intersection of data and 
 
 This course will be divided into four 3 week 'sections', each focusing on a different aspect of data art:
 
-1. **Data & Aesthetics**
+1. **Data & Aesthetic**
 2. **Text, Archives & Memory Stores**
 3. **Data & Publics**
 4. **Ethics, Humans & Responsibility**
@@ -46,7 +46,7 @@ Since we’re not using a percentage-based grading system, let me put it another
 
 (i) Everyone shows up to class on time. If you’re going to be late, let me know in advance. If you need to miss a class for a real reason, you must also let me know in advance.
 
-(ii) Everyone does the readings. For the most part, they’re short, fun, and useful. There will be 16 readings over the course of the semester. Each student will be responsible for leading class discussion on one reading.
+(ii) Everyone does the readings. For the most part, they’re short, fun, and useful. Students will be responsible for leading class discussion on readings on a rotating basis.
 
 (iii) All assignment work is due at the beginning of class. Everyone gets a free pass for one late assignment. After that, any assignments not ready for the start of class will be counted as incomplete. A completed blog post about each assignment is required.
 
@@ -71,3 +71,29 @@ September 11th – Week 1. The lay of the land
 September 18th – Week 2. Discussions on readings & technical workshop
 
 September 25th – Week 3. Guest Speaker (TBA) & Project presentations
+
+### Text, Archives & Memory Stores
+
+October 2nd – Week 4. Topic survey & technical workshop
+
+October 9th *Fall break*
+
+October 16th – Week 5. Discussions on readings & overview of other resources
+
+October 23rd – Week 6. Guest Speaker (TBA) & Project presentations
+
+### Data & Publics
+
+October 30th – Week 7. Topic survey & technical workshop
+
+November 6th – Week 8. *(Need to reschedule)* - Discussions on readings & overview of other resources
+
+November 13th – Week 9. Guest Speaker (TBA) & Project presentations
+
+### Ethics, Humans & Responsibility
+
+November 20th – Week 10. Topic survey & technical workshop
+
+November 27th – Week 11. Discussions on readings & overview of other resources
+
+December 4th – Week 12. Guest Speaker (TBA) & Project presentations
