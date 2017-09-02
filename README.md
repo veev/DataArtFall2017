@@ -95,6 +95,11 @@ October 23rd – Week 6. Guest Speaker (TBA) & Project presentations
 
 ### Data & Publics
 
+**Readings:**
+* [On Space and Spatial Practice,](http://www.sscnet.ucla.edu/geog/faculty/curry/Curry--Spatial practice.pdf) Michael R Curry
+* [Rethinking Maps: Thinking about Maps,](https://makingmaps.files.wordpress.com/2009/08/rethinking_maps_introduction_pageproof.pdf) Rob Kitchin, Chris Perkins & Martin Dodge
+* [IMG MGMT: The Nine Eyes of Google Street View,](http://artfcity.com/2009/08/12/img-mgmt-the-nine-eyes-of-google-street-view/) Jon Rafman
+
 October 30th – Week 7. Topic survey & technical workshop
 
 November 6th – Week 8. *(Need to reschedule)* - Discussions on readings & overview of other resources
@@ -102,6 +107,10 @@ November 6th – Week 8. *(Need to reschedule)* - Discussions on readings & over
 November 13th – Week 9. Guest Speaker (TBA) & Project presentations
 
 ### Ethics, Humans & Responsibility
+**Readings:**
+* [Six Provocations for Big Data,](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926431) danah boyd & Kate Crawford
+* [Big data problems we face today can be traced to the social ordering practices of the 19th century,](http://blogs.lse.ac.uk/impactofsocialsciences/2015/10/13/ideological-inheritances-in-the-data-revolution/) Joanne Travaglia & Hamish Robertson
+* [You Say Data, I Say System,](https://hackernoon.com/you-say-data-i-say-system-54e84aa7a421) Jer Thorp
 
 November 20th – Week 10. Topic survey & technical workshop
 
