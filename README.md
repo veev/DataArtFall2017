@@ -108,8 +108,9 @@ November 13th – Week 9. Guest Speaker (TBA) & Project presentations
 
 ### Ethics, Humans & Responsibility
 **Readings:**
-* [Six Provocations for Big Data,](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926431) danah boyd & Kate Crawford
+* [Critical Questions for Big Data,](https://people.cs.kuleuven.be/~bettina.berendt/teaching/ViennaDH15/boyd_crawford_2012.pdf) danah boyd & Kate Crawford
 * [Big data problems we face today can be traced to the social ordering practices of the 19th century,](http://blogs.lse.ac.uk/impactofsocialsciences/2015/10/13/ideological-inheritances-in-the-data-revolution/) Joanne Travaglia & Hamish Robertson
+* [A chronology of tactics: Art tackles Big Data and the environment,](http://journals.sagepub.com/doi/abs/10.1177/2053951716665869) Brooke Singer
 * [You Say Data, I Say System,](https://hackernoon.com/you-say-data-i-say-system-54e84aa7a421) Jer Thorp
 
 November 20th – Week 10. Topic survey & technical workshop (TBA)
