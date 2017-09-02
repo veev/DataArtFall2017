@@ -73,7 +73,7 @@ Since we’re not using a percentage-based grading system, let me put it another
 
 September 11th – Week 1. The lay of the land
 
-September 18th – Week 2. Discussions on readings & technical workshop (Processing)
+September 18th – Week 2. Discussion of readings & technical workshop (Processing)
 
 September 25th – Week 3. Guest Speaker (TBA) & Project presentations
 
@@ -89,7 +89,7 @@ October 2nd – Week 4. Topic survey & technical workshop (RiTA)
 
 *October 9th - Fall break*
 
-October 16th – Week 5. Discussions on readings & overview of other resources
+October 16th – Week 5. Discussion of readings & overview of other resources
 
 October 23rd – Week 6. Guest Speaker (TBA) & Project presentations
 
@@ -102,7 +102,7 @@ October 23rd – Week 6. Guest Speaker (TBA) & Project presentations
 
 October 30th – Week 7. Topic survey & technical workshop (Leaflet.js / Mapbox GL)
 
-November 6th – Week 8. *(Need to reschedule)* - Discussions on readings & overview of other resources
+November 6th – Week 8. *(Need to reschedule)* - Discussion of readings & overview of other resources
 
 November 13th – Week 9. Guest Speaker (TBA) & Project presentations
 
@@ -114,6 +114,6 @@ November 13th – Week 9. Guest Speaker (TBA) & Project presentations
 
 November 20th – Week 10. Topic survey & technical workshop (TBA)
 
-November 27th – Week 11. Discussions on readings & overview of other resources
+November 27th – Week 11. Discussion of readings & overview of other resources
 
 December 4th – Week 12. Guest Speaker (TBA) & Project presentations
