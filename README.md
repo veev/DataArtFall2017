@@ -30,3 +30,36 @@ For each of these sections, you will complete a small project, which will be ass
 
 The first project is required to be an individual project. For the last three assignments, the project can be done as an individual project, or in groups of up to three students. *Each student will be required to do at least one group project.*
 
+## Expectations and Workload
+
+You can expect to have 3-4 assigned readings for each thematic section. You must complete all readings prior to class, and come ready to participate in discussion. Projects must be posted to this GitHub repo in the appropriate folder, along with source code (where applicable) before the start of class when the assignment is due. A brief blog post about the project is also required to be completed before the start of class. 
+
+## Grading
+
+If we were using a percentage-based grading system, the numbers would look something like this:
+
+Class participation: 30%
+Semester Projects: 70%
+Since we’re not using a percentage-based grading system, let me put it another way: if you’re an active contributor to our discussions in class, and you complete your assignments, and you make something ambitious/excellent as a final project, you’ll pass this class. If you don’t, you won’t.
+
+## Class Rules
+
+(i) Everyone shows up to class on time. If you’re going to be late, let me know in advance. If you need to miss a class for a real reason, you must also let me know in advance.
+
+(ii) Everyone does the readings. For the most part, they’re short, fun, and useful. There will be 16 readings over the course of the semester. Each student will be responsible for leading class discussion on one reading.
+
+(iii) All assignment work is due at the beginning of class. Everyone gets a free pass for one late assignment. After that, any assignments not ready for the start of class will be counted as incomplete. A completed blog post about each assignment is required.
+
+(iv) Everyone in the class must attend office hours at least once in the first three weeks of class.
+
+(v) We’ll have a series of guest speakers coming into class over the course of the term. I will provide resources to learn about their work prior to their visits – everyone in class must do their homework and be prepared to learn from our guests.
+
+(vi) I am 100% dedicated to an inclusive, harassment-free experience for everyone regardless of gender, race, sexual orientation, disability, background, appearance, or religion. I will not tolerate harassment of class participants in any form.
+
+## Touchstones
+
+(i) Gary Shteyngart - Super Sad True Love Story
+
+(ii) Brian K. Vaughan, Marcos Martin and Muntsa Vicente - The Private Eye - http://panelsyndicate.com/comics/tpeye
+
+##Syllabus
