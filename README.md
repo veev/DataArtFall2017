@@ -73,7 +73,7 @@ Since we’re not using a percentage-based grading system, let me put it another
 
 September 11th – Week 1. The lay of the land
 
-September 18th – Week 2. Discussions on readings & technical workshop
+September 18th – Week 2. Discussions on readings & technical workshop (Processing)
 
 September 25th – Week 3. Guest Speaker (TBA) & Project presentations
 
@@ -85,7 +85,7 @@ September 25th – Week 3. Guest Speaker (TBA) & Project presentations
 * [On Collections as the Data Imperative,](http://digitalpreservation.gov/meetings/dcs16/tpadilla_OnaCollectionsasDataImperative_final.pdf) Thomas Padilla
 * [A Sea of Data: Apophenia and Pattern (Mis-)Recognition,](http://www.e-flux.com/journal/72/60480/a-sea-of-data-apophenia-and-pattern-mis-recognition/) Hito Steyerl
 
-October 2nd – Week 4. Topic survey & technical workshop
+October 2nd – Week 4. Topic survey & technical workshop (RiTA)
 
 *October 9th - Fall break*
 
@@ -100,7 +100,7 @@ October 23rd – Week 6. Guest Speaker (TBA) & Project presentations
 * [Rethinking Maps: Thinking about Maps,](https://makingmaps.files.wordpress.com/2009/08/rethinking_maps_introduction_pageproof.pdf) Rob Kitchin, Chris Perkins & Martin Dodge
 * [IMG MGMT: The Nine Eyes of Google Street View,](http://artfcity.com/2009/08/12/img-mgmt-the-nine-eyes-of-google-street-view/) Jon Rafman
 
-October 30th – Week 7. Topic survey & technical workshop
+October 30th – Week 7. Topic survey & technical workshop (Leaflet.js / Mapbox GL)
 
 November 6th – Week 8. *(Need to reschedule)* - Discussions on readings & overview of other resources
 
@@ -112,7 +112,7 @@ November 13th – Week 9. Guest Speaker (TBA) & Project presentations
 * [Big data problems we face today can be traced to the social ordering practices of the 19th century,](http://blogs.lse.ac.uk/impactofsocialsciences/2015/10/13/ideological-inheritances-in-the-data-revolution/) Joanne Travaglia & Hamish Robertson
 * [You Say Data, I Say System,](https://hackernoon.com/you-say-data-i-say-system-54e84aa7a421) Jer Thorp
 
-November 20th – Week 10. Topic survey & technical workshop
+November 20th – Week 10. Topic survey & technical workshop (TBA)
 
 November 27th – Week 11. Discussions on readings & overview of other resources
 
