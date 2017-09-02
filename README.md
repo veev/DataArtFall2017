@@ -18,14 +18,15 @@ This course will be divided into four 3 week 'sections', each focusing on a diff
 3. **Data & Publics**
 4. **Ethics, Humans & Responsibility**
 
-Each of these sections will run for three classes. The first of the three classes will involve a survey of work being done in this area, and a workshop teaching one or two important technical points. The second class will involve a discussion around assigned readings and a review of available tools. The third class will feature a guest speaker, and brief (5 minute) presentations of project work (see below).
+Each of these sections will run for three classes. The first of the three classes will involve a survey of work being done in this area, and a 'workshop' teaching one or two important technical points. The second class will involve a discussion around assigned readings and a review of available tools. The third class will feature a guest speaker, and brief (5 minute) presentations of project work (see below).
 
-For each of these sections, you will complete a small project, which will be assigned on the first day of the section and will be due on the last. For the last three assignments, you have the choice of doing a conceptual project, or a realized one:
+For each of these sections, you will complete a small project, which will be assigned on the first day of the section and will be due on the last. The first assignment will be individual and realized. For the last three assignments, you have the choice of doing a conceptual project, or a realized one:
 
 * **Conceptual projects** should be focused on possibility without constraint. What would or could you build if you were not restricted by materials, budget, technological possibility, or coding skills?
 
-* **Realized projects** will be built in the two weeks between assignment and the due date. They will be posted to this repo with source code.
+* **Realized projects** will be built in the two weeks between assignment and the due date. They will be posted to this repo with source code if applicable, and written up with a blog post.
 
-*Each student will be required to complete one conceptual project, and two realized projects. It is your choice as to which of the sections you choose for which.*
+*Each student will be required to complete one conceptual project, and two realized projects. It is your choice as to which of the last three sections you choose for which.*
 
-The first project is required to be an individual project. For the last three assignments, the project can be done as an individual project, or in groups of up to three students. *Each student will be required to do at least one group project.* 
+The first project is required to be an individual project. For the last three assignments, the project can be done as an individual project, or in groups of up to three students. *Each student will be required to do at least one group project.*
+
