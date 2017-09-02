@@ -79,6 +79,12 @@ September 25th – Week 3. Guest Speaker (TBA) & Project presentations
 
 ### Text, Archives & Memory Stores
 
+**Readings:**
+* [Deconstructing Information,](http://www.stat.ucla.edu/~cocteau/stat202a/readings/thayer.pdf) Lee Thayer
+* [Consider the Boolean,](https://source.opennews.org/articles/consider-boolean) Jacob Harris
+* [On Collections as the Data Imperative,](http://digitalpreservation.gov/meetings/dcs16/tpadilla_OnaCollectionsasDataImperative_final.pdf) Thomas Padilla
+* [A Sea of Data: Apophenia and Pattern (Mis-)Recognition,](http://www.e-flux.com/journal/72/60480/a-sea-of-data-apophenia-and-pattern-mis-recognition/) Hito Steyerl
+
 October 2nd – Week 4. Topic survey & technical workshop
 
 *October 9th - Fall break*
