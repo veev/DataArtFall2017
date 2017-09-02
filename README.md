@@ -26,7 +26,7 @@ For each of these sections, you will complete a small project, which will be ass
 
 * **Realized projects** will be built in the two weeks between assignment and the due date. They will be posted to this repo with source code if applicable, and written up with a blog post.
 
-*Each student will be required to complete one conceptual project, and two realized projects. It is your choice as to which of the last three sections you choose for which.*
+*For the last three assignments, each student will be required to complete one conceptual project, and two realized projects. It is your choice as to which of the last three sections you choose for which.*
 
 The first project is required to be an individual project. For the last three assignments, the project can be done as an individual project, or in groups of up to three students. *Each student will be required to do at least one group project.*
 
