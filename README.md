@@ -102,6 +102,7 @@ October 23rd – Week 6. Guest Speaker (TBA) & Project presentations
 **Readings:**
 * [On Space and Spatial Practice,](http://www.sscnet.ucla.edu/geog/faculty/curry/Curry--Spatial%20practice.pdf) Michael R Curry
 * [Rethinking Maps: Thinking about Maps,](https://makingmaps.files.wordpress.com/2009/08/rethinking_maps_introduction_pageproof.pdf) Rob Kitchin, Chris Perkins & Martin Dodge
+* [Here Be Dragons: Finding the Blank Spaces in a Well-Mapped World,](http://www.vqronline.org/essays-articles/2017/01/here-be-dragons) Lois Parshley
 * [IMG MGMT: The Nine Eyes of Google Street View,](http://artfcity.com/2009/08/12/img-mgmt-the-nine-eyes-of-google-street-view/) Jon Rafman
 
 October 30th – Week 7. Topic survey & technical workshop (Leaflet.js / Mapbox GL)
