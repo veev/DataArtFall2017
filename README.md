@@ -67,6 +67,7 @@ Since we’re not using a percentage-based grading system, let me put it another
 ### Data & Aesthetic
 
 **Readings:**
+* [A Concise Taxonomy for Describing Data as an Art Material,](http://www.mitpressjournals.org/doi/pdf/10.1162/LEON_a_01414) Julie Freeman, Geraint Wiggins, Gavin Starks and Mark Sandler
 * [The Anti-Sublime in New Media,](http://users.fba.up.pt/~ldcag01015/anti_sublime/index.html) Lev Manovich
 * [What Would Feminist Data Visualization Look Like?](https://civic.mit.edu/feminist-data-visualization) Catherine D'Ignazio
 * [DataViz - The UnEmpathetic Art,](https://responsibledata.io/dataviz-the-unempathetic-art/) Mushon Zer-Aviv
