@@ -77,7 +77,7 @@ Since we’re not using a percentage-based grading system, let me put it another
 * [Subtle Data,](https://vimeo.com/72246588) Stefanie Posavec speaking at the 2013 Eyeo Festival
 * [How I Learned to Love Data Visualization (Again),](https://vimeo.com/159297152) Jon Schwabish speaking at the 2015 Visualized Conference
 
-September 11th – Week 1. The lay of the land
+September 11th – Week 1. The lay of the land - [slides shown in class](https://drive.google.com/open?id=0B_Tywu5UZ8E1ZmJNU0RZM3FBZGs)
 
 September 18th – Week 2. Discussion of readings & technical workshop (Processing)
 
