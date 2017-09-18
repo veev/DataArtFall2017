@@ -95,9 +95,9 @@ Since we’re not using a percentage-based grading system, let me put it another
 
 September 11th – Week 1. The lay of the land - [slides shown in class](https://drive.google.com/open?id=0B_Tywu5UZ8E1ZmJNU0RZM3FBZGs)
 
-September 18th – Week 2. Discussion of readings & technical workshop (Processing)
+September 18th – Week 2. Discussion of readings & technical workshop (Processing) - [slides shown in class](https://drive.google.com/open?id=0B_Tywu5UZ8E1TkpCbElDdzV3TTg)
 
-September 25th – Week 3. Guest Speaker (TBA) & Project presentations
+September 25th – Week 3. Guest Speaker ([Mona Chalabi](http://monachalabi.com/)) & Project presentations
 
 ### Text, Archives & Memory Stores
 
