@@ -80,20 +80,8 @@ Since we’re not using a percentage-based grading system, let me put it another
 **Assignment:** 
 * Data Self-Portrait: Create a self-portrait derived from a data set
 * Due Week 3, September 25th. Documentation should be posted and a link emailed before class begins
-* Things to consider:
-	1. What data to collect: 
-	- what data do you embody, what data embodies you?
-	2. Collection method(s): 
-	- note-taking, self-tracking apps, email, SMS messages, social media activity
-	3. Visual palette / legend
-	- can you develop a set of shapes, colors and structure that provides legibility?
-	4. Form
-	- hand-drawn, collaged, printed, fabricated, etc. 
-	- final output must be analog / physical
-	5. Process
-	- work with data by sketching with code AND by hand
 
-September 11th – Week 1. The lay of the land - [slides shown in class](https://drive.google.com/open?id=0B_Tywu5UZ8E1ZmJNU0RZM3FBZGs)
+September 11th – Week 1. The lay of the land - [slides shown in class](https://drive.google.com/open?id=0B_Tywu5UZ8E1UzdzNU14bWp0Y2M)
 
 September 18th – Week 2. Discussion of readings & technical workshop (Processing) - [slides shown in class](https://drive.google.com/open?id=0B_Tywu5UZ8E1TkpCbElDdzV3TTg)
 
