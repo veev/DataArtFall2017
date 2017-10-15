@@ -92,7 +92,7 @@ September 25th – Week 3. Guest Speaker ([Mona Chalabi](http://monachalabi.com/
 **Readings:**
 * [Deconstructing Information,](http://www.stat.ucla.edu/~cocteau/stat202a/readings/thayer.pdf) Lee Thayer
 * [Consider the Boolean,](https://source.opennews.org/articles/consider-boolean) Jacob Harris
-* [On Collections as the Data Imperative,](http://digitalpreservation.gov/meetings/dcs16/tpadilla_OnaCollectionsasDataImperative_final.pdf) Thomas Padilla
+* [On a Collections as Data Imperative,](http://digitalpreservation.gov/meetings/dcs16/tpadilla_OnaCollectionsasDataImperative_final.pdf) Thomas Padilla
 * [A Sea of Data: Apophenia and Pattern (Mis-)Recognition,](http://www.e-flux.com/journal/72/60480/a-sea-of-data-apophenia-and-pattern-mis-recognition/) Hito Steyerl
 
 October 2nd – Week 4. Topic survey & technical workshop (RiTA) - [slides shown in class](https://drive.google.com/open?id=0B_Tywu5UZ8E1WW45Snp5S295ck0)
