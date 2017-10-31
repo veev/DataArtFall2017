@@ -112,9 +112,9 @@ October 23rd – Week 6. Guest Speaker (TBA) & Project presentations
 * [Mapping’s Intelligent Agents](https://placesjournal.org/article/mappings-intelligent-agents/) Shannon Mattern
 * [IMG MGMT: The Nine Eyes of Google Street View,](http://artfcity.com/2009/08/12/img-mgmt-the-nine-eyes-of-google-street-view/) Jon Rafman
 
-October 30th – Week 7. Topic survey & technical workshop (Leaflet.js / Mapbox GL)
+October 30th – Week 7. Topic survey & technical workshop (Leaflet.js / Mapbox GL) - [slides shown in class](https://drive.google.com/open?id=0B_Tywu5UZ8E1bkJxcWc5b3g2WVU)
 
-November 6th – Week 8. *(Need to reschedule)* - Discussion of readings & overview of other resources
+November 6th – Week 8. *(Rescheduled to November 8th, 9am)* - Discussion of readings & overview of other resources
 
 November 13th – Week 9. Guest Speaker (TBA) & Project presentations
 
