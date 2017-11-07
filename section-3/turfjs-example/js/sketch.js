@@ -31,9 +31,10 @@ map.on('load', function() {
 			}
 		});
 
+		// add interactivity to see a popup with info about a district
 		map.on('click', 'nyc-city-council', function(e) {
 			
-			var popup = new mapboxgl.Popup()
+			let popup = new mapboxgl.Popup()
 				.setLngLat(e.lngLat)
 				.setHTML("City Council District " + e.features[0].properties.coun_dist)
 				.addTo(map);
@@ -49,6 +50,41 @@ map.on('load', function() {
 			map.getCanvas().style.cursor = '';
 		});
 
+		// add mapbox geocoder to look up an address!
+		let geocoder = new MapboxGeocoder({ 
+			accessToken: mapboxgl.accessToken
+		});
+		map.addControl(geocoder);
+
+		// create an empty array to keep track of popups
+		let popups = [];
+
+		// listen to 'result' event to see which address and coordinate is searched
+		geocoder.on('result', function(res) {
+
+			// if there's already a city council popup, erase it!
+			if (popups.length > 0) {
+				console.log(popups);
+				popups[0].remove();
+			}
+			// console.log(res.result);
+
+			// put lat / lon into a turf point (just for a shorter variable name)
+			let pt = turf.point(res.result.geometry.coordinates);
+			// console.log(pt);
+
+			//iterate through multipolygons to see which one point is inside
+			data.features.forEach( function(feature) {
+				if (turf.inside(pt, feature)) {
+
+					let popup = new mapboxgl.Popup()
+						.setLngLat(pt.geometry.coordinates)
+						.setHTML("You're in city council district " + feature.properties.coun_dist)
+						.addTo(map);
+					popups.push(popup);
+				}
+			})
+		});
 	});
 
 });
