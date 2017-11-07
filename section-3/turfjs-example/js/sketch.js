@@ -15,6 +15,40 @@ map.on('load', function() {
 		if (err) throw err;
 
 		console.log(data);
+
+		// map source (data) needs a name, type and data
+		map.addSource('city-council-districts', { type: 'geojson', data: data });
+
+		// map layer needs an id, type, the source and a style
+		map.addLayer({
+			'id': 'nyc-city-council',
+			'type': 'fill',
+			'source': 'city-council-districts',
+			'paint': {
+				'fill-color': '#088',
+				'fill-outline-color': '#fff',
+				'fill-opacity': 0.4
+			}
+		});
+
+		map.on('click', 'nyc-city-council', function(e) {
+			
+			var popup = new mapboxgl.Popup()
+				.setLngLat(e.lngLat)
+				.setHTML("City Council District " + e.features[0].properties.coun_dist)
+				.addTo(map);
+		});
+
+		map.on('mouseenter', 'nyc-city-council', function() {
+			// Change the cursor style as a UI indicator.
+        	map.getCanvas().style.cursor = 'pointer';
+		})
+
+		map.on('mouseleave', 'nyc-city-council', function() {
+			// Change the cursor style back as a UI indicator.
+			map.getCanvas().style.cursor = '';
+		});
+
 	});
 
 });
