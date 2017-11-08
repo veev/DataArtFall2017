@@ -1,4 +1,4 @@
-mapboxgl.accessToken = ""; //<your access token here>; must register a mapbox access token to try example
+mapboxgl.accessToken = ''; //<your access token here>; must register a mapbox access token to try example
 
 // Date parsing and formatting with d3: https://github.com/d3/d3-time-format
 // symbols must match string that represents date -> parsing converts it into date object
