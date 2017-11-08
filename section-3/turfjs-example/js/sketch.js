@@ -1,5 +1,5 @@
-//mapboxgl.accessToken = ''; //<your access token here>
-mapboxgl.accessToken = 'pk.eyJ1IjoidmVldiIsImEiOiIzdzVEVDdrIn0.z3N2X1Fk7rx4wXesVf0-rQ';
+mapboxgl.accessToken = ''; //<your access token here>
+// the code won't run without your own token inserted between the single quotes
 
 var map = new mapboxgl.Map({
     container: 'map',
