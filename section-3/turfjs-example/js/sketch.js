@@ -65,9 +65,13 @@ map.on('load', function() {
 			// if there's already a city council popup, erase it!
 			if (popups.length > 0) {
 				console.log(popups);
-				popups[0].remove();
+
+				//remove all the popups from the map if they already exist
+				popups.forEach(function(popup) {
+					popup.remove();
+				});
 			}
-			// console.log(res.result);
+			console.log(res.result);
 
 			// put lat / lon into a turf point (just for a shorter variable name)
 			let pt = turf.point(res.result.geometry.coordinates);
@@ -75,13 +79,14 @@ map.on('load', function() {
 
 			//iterate through multipolygons to see which one point is inside
 			data.features.forEach( function(feature) {
+				// turf.inside is a method to check whether a point is inside a polygon
 				if (turf.inside(pt, feature)) {
 
-					let popup = new mapboxgl.Popup()
+					let councilInfo = new mapboxgl.Popup()
 						.setLngLat(pt.geometry.coordinates)
 						.setHTML("You're in city council district " + feature.properties.coun_dist)
 						.addTo(map);
-					popups.push(popup);
+					popups.push(councilInfo);
 				}
 			})
 		});
