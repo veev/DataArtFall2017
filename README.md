@@ -99,9 +99,9 @@ October 2nd – Week 4. Topic survey & technical workshop (RiTA) - [slides shown
 
 *October 9th - Fall break*
 
-October 16th – Week 5. Discussion of readings & overview of other resources
+October 16th – Week 5. Discussion of readings & overview of other resources - [slides shown in class](https://drive.google.com/file/d/1IrV8UIqxH-QbaotTipvUHen4JuZXsMCn/view?usp=sharing)
 
-October 23rd – Week 6. Guest Speaker (TBA) & Project presentations
+October 23rd – Week 6. Guest Speaker ([Matt Daniels](https://pudding.cool/)) & Project presentations
 
 ### Data & Publics
 
@@ -114,9 +114,9 @@ October 23rd – Week 6. Guest Speaker (TBA) & Project presentations
 
 October 30th – Week 7. Topic survey & technical workshop (Leaflet.js / Mapbox GL) - [slides shown in class](https://drive.google.com/open?id=0B_Tywu5UZ8E1bkJxcWc5b3g2WVU)
 
-November 6th – Week 8. *(Rescheduled to November 8th, 9am)* - Discussion of readings & overview of other resources
+November 6th – Week 8. *(Rescheduled to November 8th, 9am)* - Discussion of readings & overview of other resources - [slides shown in class](https://drive.google.com/file/d/1xAMbhAq6IqwekqWGgG6N1hNxaikGuer9/view?usp=sharing)
 
-November 13th – Week 9. Guest Speaker (TBA) & Project presentations
+November 13th – Week 9. Guest Speaker (Dave Riordan) & Project presentations
 
 ### Ethics, Humans & Responsibility
 **Readings:**
