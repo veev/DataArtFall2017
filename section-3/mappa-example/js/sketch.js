@@ -6,6 +6,8 @@ let mappa = new Mappa('Mapboxgl', key);
 let myMap;
 let canvas;
 
+let flyNow = false;
+
 // Map options
 let options = {
   lat: 40.782,
@@ -21,11 +23,26 @@ function setup(){
   myMap = mappa.tileMap(options);
   // Overlay the tile map to the p5 canvas. This will display the map.
   myMap.overlay(canvas);
+
+  myMap.onChange( function() {
+    console.log("Map Changed"); // watch the console for how often this event is triggered
+  });
 }
 
 function draw(){
-  // Clear the background so the map is clearly seen at each frame.
-  clear();
-  fill(255, 255, 255);
-  ellipse(mouseX, mouseY, 40, 40);
+  if (flyNow) {
+    //console.log(myMap);
+    myMap.map.flyTo({
+      center: [
+          -74.50 + (Math.random() - 0.5) * 10,
+          40 + (Math.random() - 0.5) * 10
+        ],
+      zoom: 9
+    });
+    flyNow = !flyNow; // try commenting this out and see what happens
+  }
+}
+
+function keyReleased() {
+  flyNow = !flyNow;
 }
