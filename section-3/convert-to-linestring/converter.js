@@ -1,4 +1,5 @@
 // in your terminal install geojson-tools
+// run npm install geojson-tools
 let geojson = require('geojson-tools');
 let fs = require('fs');
 let filepath = '../data/moves/places_20170715';
