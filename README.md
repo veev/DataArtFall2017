@@ -125,7 +125,7 @@ November 13th – Week 9. Guest Speaker (Dave Riordan) & Project presentations
 * [A chronology of tactics: Art tackles Big Data and the environment,](http://journals.sagepub.com/doi/abs/10.1177/2053951716665869) Brooke Singer
 * [You Say Data, I Say System,](https://hackernoon.com/you-say-data-i-say-system-54e84aa7a421) Jer Thorp
 
-November 20th – Week 10. Topic survey & technical workshop (TBA)
+November 20th – Week 10. Topic survey & technical workshop (D3) - [slides shown in class](https://drive.google.com/file/d/1QVnJwqpblmdTKfFoUFpwWfvGTPjLbwCk/view?usp=sharing)
 
 November 27th – Week 11. Discussion of readings & overview of other resources
 
