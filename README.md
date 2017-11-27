@@ -127,6 +127,6 @@ November 13th – Week 9. Guest Speaker (Dave Riordan) & Project presentations
 
 November 20th – Week 10. Topic survey & technical workshop (D3) - [slides shown in class](https://drive.google.com/file/d/1QVnJwqpblmdTKfFoUFpwWfvGTPjLbwCk/view?usp=sharing)
 
-November 27th – Week 11. Discussion of readings & overview of other resources
+November 27th – Week 11. Discussion of readings & overview of other resources - [slides shown in class](https://drive.google.com/open?id=1Vb5IBeOOOQVT-DTJbOx4WKv3nphwasIr)
 
-December 4th – Week 12. Guest Speaker (TBA) & Project presentations
+December 4th – Week 12. Guest Speaker (Shannon Mattern) & Project presentations
